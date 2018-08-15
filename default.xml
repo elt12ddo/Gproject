@@ -4,6 +4,6 @@
   <default revision="refs/head/master"
     remote="Gproject"
     sync-j="4"/>
-  <project name="elt12ddo/Gproject.git" remote="Gproject" path"elt12ddo/Gproject.git/>
- 
+  <project name="elt12ddo/Gproject.git" remote="Gproject" path"elt12ddo/Gproject.git"/>
+
 </manifest>
